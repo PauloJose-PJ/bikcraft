@@ -19,6 +19,7 @@
 }
 
 .introducao img {
+  width: 100%;
   height: 100%;
   /* faz com que a imagem não fique comprimida ao minimizar */
   object-fit: cover;
